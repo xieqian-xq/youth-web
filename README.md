@@ -1,3 +1,3 @@
 # Youth-Web
-## React Demo
->使用Create-React-App创建项目，以react-app-rewired的方式重新配置。
+>使用`Create-React-App`创建项目，以`react-app-rewired`的方式重新配置。
+>1、入口在src下的`index.js`文件
