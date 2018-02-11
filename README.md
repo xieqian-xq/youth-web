@@ -1,2 +1,2 @@
 # youth-web
-youth web项目，采用React框架
+>使用Create-React-App创建项目，以react-app-rewired的方式重新配置。
